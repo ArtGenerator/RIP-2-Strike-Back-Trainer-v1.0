@@ -35,7 +35,8 @@ NOTE:
   been tampered with by a third party. Always download this
   trainer from trusted and verified sources to ensure your
   safety (GitHub by default). We take no responsibility 
-  for modified versions distributed outside of our official channels.
+  for modified versions distributed outside of our official
+  channels.
 
   *** RIP 2: Strike Back is known as RIP Trilogy on Steam
 
