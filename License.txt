@@ -39,7 +39,7 @@ DISTRIBUTION:
 
 The only authorized distribution channel for this Software is GitHub at:
 
-https://github.com/ArtGenerator/RIP-2-Strike-Back-Trainer
+https://github.com/ArtGenerator/RIP-2-Strike-Back-Trainer-v1.0
 
 INTELLECTUAL PROPERTY:
 
