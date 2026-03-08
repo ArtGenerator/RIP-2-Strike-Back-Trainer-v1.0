@@ -63,7 +63,8 @@ For permission requests, inquiries about modifications, or commercial use,
 contact the Creators through:
 
 - Email: ksb_89@yahoo.com
-- GitHub: https://github.com/ArtGenerato
+
+- GitHub: https://github.com/ArtGenerator
 
 By using this Software, you agree to abide by all terms and conditions 
 of this license.
