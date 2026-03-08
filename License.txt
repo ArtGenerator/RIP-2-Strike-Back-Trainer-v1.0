@@ -1,6 +1,6 @@
 RIP 2: STRIKE BACK (TRAINER) - LICENSE
 
-Trainer Version 1.0 for Steam
+Trainer v1.0 for Steam
 
 Copyright © 2026 ArtGenerator and Sly Boots. All rights reserved.
 
@@ -62,8 +62,8 @@ CONTACT:
 For permission requests, inquiries about modifications, or commercial use, 
 contact the Creators through:
 
-- GitHub: https://github.com/ArtGenerator
 - Email: ksb_89@yahoo.com
+- GitHub: https://github.com/ArtGenerato
 
 By using this Software, you agree to abide by all terms and conditions 
 of this license.
